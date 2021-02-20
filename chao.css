@@ -1,0 +1,72 @@
+.par {
+	position: absolute;
+	background-color: purple;
+	font-family: 'Oi', cursive;
+	top: 2%;
+	font-size: 450%;
+	left:35%;
+	height:0%;
+	background-size: cover;
+}
+.par1 {
+    position:absolute;
+    background-image: url(fondo9.jpg);
+	background-color: black;
+	font-size: 200%;
+	top:25%;
+	left:55%;
+	height:55%;
+	width: 24%;
+	border: black 5px solid;
+	background-size: cover;
+}
+.par2 {
+	position: absolute;
+	background-color: pink;
+	font-family: 'Oi', cursive;
+	font-size: 450%;
+	top: 115%;
+	left:35%;
+	height:0%;
+	background-size: cover;
+}
+.par4 {
+	position: absolute;
+	background-image: url(imagen1.jpeg);
+	background-color: black;
+	top: 135%;
+	left:10%;
+	height:70%;
+	width: 70%;
+	background-size: cover;
+}
+.par5 {
+	position: absolute;
+	background-image: url(imagen2.jpeg);
+	background-color: black;
+	top: 215%;
+	left:10%;
+	height:70%;
+	width: 80%;
+	background-size: cover;
+}
+.par6 {
+	position: absolute;
+	background-image: url(imagen3.jpeg);
+	background-color: black;
+	top: 295%;
+	left:2%;
+	height:70%;
+	width: 98%;
+	background-size: cover;
+}
+.par7 {
+	position: absolute;
+	background-color: purple;
+	font-family: 'Coiny', cursive;
+	top: 35%;
+	font-size: 350%;
+	left:25%;
+	height:0%;
+	background-size: cover;
+}
